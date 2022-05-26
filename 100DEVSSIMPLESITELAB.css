@@ -1,0 +1,108 @@
+html {
+    height: 100%;
+    background-color: skyblue;
+    color: white;
+    margin: 75px;
+    border-style: solid;
+    border-color: limegreen;
+    border-width: 5px;
+    padding: 75px;
+}
+
+body {
+    height: 100%;
+}
+
+h1 {
+   text-align: center;
+   font-size: 30px;
+   font-weight: light;
+   font-family: 'Bungee Shade', cursive;
+   font-family: 'Permanent Marker', cursive;
+   font-family: 'Merriweather', serif;
+   font-family: 'Tiro Bangla', serif;
+   font-family: 'Tiro Tamil', serif;
+   font-family: 'Vesper Libre', serif;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    display:inline-block;
+    list-style:none;
+}
+
+.nav {
+    display:inline-block;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Tiro Bangla', serif;
+    font-family: 'Tiro Tamil', serif;
+    font-family: 'Vesper Libre', serif;
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Tiro Bangla', serif;
+    font-family: 'Tiro Tamil', serif;
+    font-family: 'Vesper Libre', serif;
+}
+
+p {
+    font-family: 'Bungee Shade', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Tiro Bangla', serif;
+    font-size: 24px;
+
+
+}
+
+img {
+    float: right;
+    margin: 30px;
+    height: 400px;
+    width: 300px;
+}
+
+footer {
+    width: 100%;
+    height: 150px;
+    color: limegreen;
+}
+
+.navbox {
+    width: 100%;
+    text-align: center;
+}
+
+.nav-bottom {
+    height: 100px;
+    clear: both;
+    
+}
+
+.grn {
+    color: limegreen
+}
+
+span {
+    color: blueviolet
+}
+
+a {
+    color: limegreen;
+}
